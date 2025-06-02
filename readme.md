@@ -83,4 +83,5 @@ Challenges Facing and Decisions Made
 3. **Manual Implementation Value**: Manual implementation was more enlightening than using black-box libraries 
 4. **Pattern Recognition:** Empirical behavioral data demonstrates unmistakable patterns validating psychology theories 
 5. **Individual Differences**: Even within personality types, there is considerable individual variation 
+
 This lab successfully demonstrated how data science principles can be applied in psychology to reveal interesting patterns in human behavior and personality.
